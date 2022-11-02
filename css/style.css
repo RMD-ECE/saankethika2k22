@@ -26,6 +26,10 @@ a {
   transition: 0.5s;
 }
 
+.flex{
+  display: flex;
+}
+
 a:hover,
 a:active,
 a:focus {
